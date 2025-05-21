@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 utils/bot_listener.py
+python3 bot_listener.py
