@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cidadania-zuna
+    env: python
+    buildCommand: ""
+    startCommand: .render/start.sh
+    autoDeploy: true
